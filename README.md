@@ -29,8 +29,8 @@ The dark navy background gives the page a focused technical feel. Lavender and m
 AI assistance was used to help draft and refine the initial page structure, copy, and implementation. Review and adapt the code before submitting, and be prepared to explain the SVG illustration, responsive CSS, navigation logic, and Intersection Observer animation.
 
 ## Deployment
-Deploy this folder with GitHub Pages or Vercel, then add your live URL here:
-`https://your-deployed-site.example`
+Deploy this folder with Netlify,  live URL here:
+`kunalkhode-blockchain-task.netlify.app`
 
 ## Branding note
 This is an independent student concept for the Blockchain Students Chapter, RBU; it is not an official chapter website.
